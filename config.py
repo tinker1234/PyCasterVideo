@@ -1,0 +1,12 @@
+USE_SSL=False
+SSL_CERT=None
+SSL_KEY=None
+PORT=4448
+MOUNT="/live.mp4"
+IGNORE_URLS=[
+    '/current',
+    '/next',
+    '/prev',
+    MOUNT,
+    '/uptime'
+]
