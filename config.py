@@ -7,6 +7,5 @@ IGNORE_URLS=[
     '/current',
     '/next',
     '/prev',
-    MOUNT,
     '/uptime'
 ]
