@@ -1,6 +1,7 @@
 USE_SSL=False
 SSL_CERT=None
 SSL_KEY=None
+SOURCE_AUTH="hackme"
 PORT=4448
 MOUNT="/live.mp4"
 IGNORE_URLS=[
